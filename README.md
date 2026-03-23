@@ -1,6 +1,6 @@
 # Brightlearn_Coffee_Shop
 Creating insights about Brightlearn Coffe shop
----1. Testing
+---1. Testing---
 SELECT * 
 FROM Brightlearn_Coffee_Shop
 
