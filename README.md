@@ -2,7 +2,7 @@
 Creating insights about Brightlearn Coffe shop
 ---1. Testing---
 SELECT * 
-FROM Brightlearn_Coffee_Shop
+FROM bright_coffee_shop_analysis
 
 --2. Creating "transaction_time_bucket"----
 SELECT 
